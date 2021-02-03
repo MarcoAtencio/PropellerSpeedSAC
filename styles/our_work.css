@@ -1,6 +1,6 @@
 /*GENERLES*/
 body{
-    background-image: url(../image/fondo_index.jpg) ;
+    background-image: url(../image/obra_one.jpg) ;
     background-position: center center;
     background-repeat: no-repeat;
     background-attachment: fixed;
@@ -51,7 +51,6 @@ body{
 #home{
     width: 100%;
     min-height: 750px;
-    background-color: white;
 }
 #home .bloque_primary{
     background: url(../image/obra_one.png);

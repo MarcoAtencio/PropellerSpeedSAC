@@ -184,6 +184,14 @@ body{
 #footer a:hover{
     color: #629BF8;
 }
+#footer input{
+    margin-bottom: 10px;
+}
+#footer .btn{
+    float: right;
+    margin-top: 10px;
+}
+
 #footer .credit{
     width: 90%;
     min-height: 50px;
